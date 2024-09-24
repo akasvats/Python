@@ -1,6 +1,7 @@
 name="Aakash Singh"
 age=18
 salary=2599.89
+new_version =3
 
 print("My name is "+ name +" and salary is",salary ," and age is", age )
 print(f"My name is {name}  and salary is {salary} and age is {age}" )
